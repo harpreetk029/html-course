@@ -1,3 +1,4 @@
 # html-course
-this is my second repostory
-Athour-Harpreet
+This is my second repostory
+<br>
+Author-Harpreet
